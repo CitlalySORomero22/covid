@@ -1,0 +1,2 @@
+0 Sin covid
+1 Con covid
